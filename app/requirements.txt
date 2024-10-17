@@ -1,0 +1,6 @@
+fastapi
+celery
+kafka-python
+redis
+uvicorn[standard]
+confluent-kafka
